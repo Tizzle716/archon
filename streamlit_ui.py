@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('Archon Project UI')
-st.write('Welcome to the Archon project interface!')
+st.title('Archon Project')
+st.write('Main interface for the Archon system')
