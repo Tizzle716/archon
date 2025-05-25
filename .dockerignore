@@ -1,0 +1,19 @@
+# Ignore Dockerfile
+Dockerfile
+
+# Ignore node_modules
+node_modules/
+
+# Ignore logs and npm debug
+logs
+*.log
+npm-debug.log*
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
